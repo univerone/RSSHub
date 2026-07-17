@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>Frontier LLM Feeds - Univerone</title>
+    </head>
+    <body>
+        <outline text="Frontier LLM - Must Read" title="Frontier LLM - Must Read">
+            <outline type="rss" text="Andrej Karpathy Blog" title="Andrej Karpathy Blog" xmlUrl="https://karpathy.github.io/feed.xml" htmlUrl="https://karpathy.github.io/"/>
+            <outline type="rss" text="Simon Willison" title="Simon Willison" xmlUrl="https://simonwillison.net/atom/everything/" htmlUrl="https://simonwillison.net/"/>
+            <outline type="rss" text="Lilian Weng" title="Lilian Weng" xmlUrl="https://lilianweng.github.io/posts/index.xml" htmlUrl="https://lilianweng.github.io/posts/"/>
+            <outline type="rss" text="The Batch" title="The Batch" xmlUrl="https://rss.univerone.com/deeplearning/the-batch" htmlUrl="https://www.deeplearning.ai/the-batch/"/>
+            <outline type="rss" text="Interconnects" title="Interconnects" xmlUrl="https://www.interconnects.ai/feed" htmlUrl="https://www.interconnects.ai/"/>
+            <outline type="rss" text="Latent Space" title="Latent Space" xmlUrl="https://www.latent.space/feed" htmlUrl="https://www.latent.space/"/>
+            <outline type="rss" text="Dwarkesh Podcast" title="Dwarkesh Podcast" xmlUrl="https://www.dwarkeshpatel.com/feed" htmlUrl="https://www.dwarkesh.com/"/>
+            <outline type="rss" text="Thinking Machines Lab" title="Thinking Machines Lab" xmlUrl="https://thinkingmachines.ai/blog/index.xml" htmlUrl="https://thinkingmachines.ai/blog/"/>
+        </outline>
+        <outline text="Primary Labs and Product Research" title="Primary Labs and Product Research">
+            <outline type="rss" text="OpenAI News" title="OpenAI News" xmlUrl="https://rss.univerone.com/openai/news" htmlUrl="https://openai.com/news/"/>
+            <outline type="rss" text="Anthropic News" title="Anthropic News" xmlUrl="https://rss.univerone.com/anthropic/news" htmlUrl="https://www.anthropic.com/news"/>
+            <outline type="rss" text="Anthropic Engineering" title="Anthropic Engineering" xmlUrl="https://rss.univerone.com/anthropic/engineering" htmlUrl="https://www.anthropic.com/engineering"/>
+            <outline type="rss" text="Meta AI Blog" title="Meta AI Blog" xmlUrl="https://rss.univerone.com/meta/ai/blog" htmlUrl="https://ai.meta.com/blog/"/>
+            <outline type="rss" text="Google DeepMind" title="Google DeepMind" xmlUrl="https://blog.google/technology/google-deepmind/rss/" htmlUrl="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/"/>
+            <outline type="rss" text="Google Research" title="Google Research" xmlUrl="https://research.google/blog/rss/" htmlUrl="https://research.google/blog/"/>
+            <outline type="rss" text="Microsoft Research" title="Microsoft Research" xmlUrl="https://www.microsoft.com/en-us/research/feed/" htmlUrl="https://www.microsoft.com/en-us/research/"/>
+            <outline type="rss" text="Mistral AI" title="Mistral AI" xmlUrl="https://mistral.ai/rss.xml" htmlUrl="https://mistral.ai/news"/>
+            <outline type="rss" text="NVIDIA Developer Blog" title="NVIDIA Developer Blog" xmlUrl="https://developer.nvidia.com/blog/feed" htmlUrl="https://developer.nvidia.com/blog"/>
+            <outline type="rss" text="Hugging Face Blog" title="Hugging Face Blog" xmlUrl="https://rss.univerone.com/huggingface/blog" htmlUrl="https://huggingface.co/blog"/>
+            <outline type="rss" text="Cohere Blog" title="Cohere Blog" xmlUrl="https://rss.univerone.com/cohere/blog" htmlUrl="https://cohere.com/blog"/>
+            <outline type="rss" text="DeepSeek News" title="DeepSeek News" xmlUrl="https://rss.univerone.com/deepseek/news" htmlUrl="https://www.deepseek.com/news"/>
+            <outline type="rss" text="Qwen Blog" title="Qwen Blog" xmlUrl="https://rss.univerone.com/qwen/blog" htmlUrl="https://qwen.ai/blog"/>
+            <outline type="rss" text="Ollama Blog" title="Ollama Blog" xmlUrl="https://ollama.com/blog/rss.xml" htmlUrl="https://ollama.com/blog"/>
+            <outline type="rss" text="Cursor Blog" title="Cursor Blog" xmlUrl="https://rss.univerone.com/cursor/blog" htmlUrl="https://cursor.com/blog"/>
+        </outline>
+        <outline text="Papers and Research Signals" title="Papers and Research Signals">
+            <outline type="rss" text="Hugging Face Daily Papers" title="Hugging Face Daily Papers" xmlUrl="https://rss.univerone.com/huggingface/daily-papers" htmlUrl="https://huggingface.co/papers"/>
+            <outline type="rss" text="Papers - arXiv cs.CL" title="Papers - arXiv cs.CL" xmlUrl="https://rss.univerone.com/papers/category/arxiv/cs.CL" htmlUrl="https://papers.cool/arxiv/cs.CL"/>
+            <outline type="rss" text="Papers - arXiv cs.LG" title="Papers - arXiv cs.LG" xmlUrl="https://rss.univerone.com/papers/category/arxiv/cs.LG" htmlUrl="https://papers.cool/arxiv/cs.LG"/>
+            <outline type="rss" text="Trending Papers" title="Trending Papers" xmlUrl="https://rss.univerone.com/trendingpapers/papers" htmlUrl="https://trendingpapers.com/"/>
+            <outline type="rss" text="Transformer Circuits" title="Transformer Circuits" xmlUrl="https://rss.univerone.com/transformer-circuits" htmlUrl="https://transformer-circuits.pub/"/>
+            <outline type="rss" text="Hacker News - LLM" title="Hacker News - LLM" xmlUrl="https://hnrss.org/newest?q=LLM" htmlUrl="https://news.ycombinator.com/newest"/>
+        </outline>
+        <outline text="Builders and Open Source" title="Builders and Open Source">
+            <outline type="rss" text="vLLM" title="vLLM" xmlUrl="https://blog.vllm.ai/feed.xml" htmlUrl="https://blog.vllm.ai/"/>
+            <outline type="rss" text="PyTorch" title="PyTorch" xmlUrl="https://pytorch.org/feed/" htmlUrl="https://pytorch.org/"/>
+            <outline type="rss" text="LMSYS" title="LMSYS" xmlUrl="https://lmsys.org/rss.xml" htmlUrl="https://lmsys.org/"/>
+            <outline type="rss" text="ezyang's Blog" title="ezyang's Blog" xmlUrl="https://blog.ezyang.com/feed.xml" htmlUrl="https://blog.ezyang.com/"/>
+            <outline type="rss" text="LangChain Blog" title="LangChain Blog" xmlUrl="https://rss.univerone.com/langchain/blog" htmlUrl="https://blog.langchain.dev/"/>
+            <outline type="rss" text="Cline Blog" title="Cline Blog" xmlUrl="https://rss.univerone.com/cline/blog" htmlUrl="https://cline.bot/blog"/>
+            <outline type="rss" text="GitHub - karpathy Activity" title="GitHub - karpathy Activity" xmlUrl="https://github.com/karpathy.atom" htmlUrl="https://github.com/karpathy"/>
+            <outline type="rss" text="GitHub - vllm-project Releases" title="GitHub - vllm-project Releases" xmlUrl="https://github.com/vllm-project/vllm/releases.atom" htmlUrl="https://github.com/vllm-project/vllm/releases"/>
+            <outline type="rss" text="GitHub - ggml Releases" title="GitHub - ggml Releases" xmlUrl="https://github.com/ggml-org/llama.cpp/releases.atom" htmlUrl="https://github.com/ggml-org/llama.cpp/releases"/>
+        </outline>
+        <outline text="People - X via RSSHub" title="People - X via RSSHub">
+            <outline type="rss" text="Andrej Karpathy" title="Andrej Karpathy" xmlUrl="https://rss.univerone.com/twitter/user/karpathy" htmlUrl="https://x.com/karpathy"/>
+            <outline type="rss" text="Keller Jordan" title="Keller Jordan" xmlUrl="https://rss.univerone.com/twitter/user/kellerjordan0" htmlUrl="https://x.com/kellerjordan0"/>
+            <outline type="rss" text="Simon Willison" title="Simon Willison" xmlUrl="https://rss.univerone.com/twitter/user/simonw" htmlUrl="https://x.com/simonw"/>
+            <outline type="rss" text="Nathan Lambert" title="Nathan Lambert" xmlUrl="https://rss.univerone.com/twitter/user/natolambert" htmlUrl="https://x.com/natolambert"/>
+            <outline type="rss" text="OpenAI" title="OpenAI" xmlUrl="https://rss.univerone.com/twitter/user/OpenAI" htmlUrl="https://x.com/OpenAI"/>
+            <outline type="rss" text="Anthropic" title="Anthropic" xmlUrl="https://rss.univerone.com/twitter/user/AnthropicAI" htmlUrl="https://x.com/AnthropicAI"/>
+            <outline type="rss" text="Google DeepMind" title="Google DeepMind" xmlUrl="https://rss.univerone.com/twitter/user/GoogleDeepMind" htmlUrl="https://x.com/GoogleDeepMind"/>
+        </outline>
+        <outline text="China AI and WeChat" title="China AI and WeChat">
+            <outline type="rss" text="QbitAI - WeChat mirror" title="QbitAI - WeChat mirror" xmlUrl="https://rss.univerone.com/wechat/wechat2rss/7131b577c61365cb47e81000738c10d872685908" htmlUrl="https://wechat2rss.xlab.app/feed/7131b577c61365cb47e81000738c10d872685908.xml"/>
+            <outline type="rss" text="Jiqizhixin - WeChat mirror" title="Jiqizhixin - WeChat mirror" xmlUrl="https://rss.univerone.com/wechat/wechat2rss/51e92aad2728acdd1fda7314be32b16639353001" htmlUrl="https://wechat2rss.xlab.app/feed/51e92aad2728acdd1fda7314be32b16639353001.xml"/>
+            <outline type="rss" text="Xinzhiyuan - WeChat mirror" title="Xinzhiyuan - WeChat mirror" xmlUrl="https://rss.univerone.com/wechat/wechat2rss/ede30346413ea70dbef5d485ea5cbb95cca446e7" htmlUrl="https://wechat2rss.xlab.app/feed/ede30346413ea70dbef5d485ea5cbb95cca446e7.xml"/>
+            <outline type="rss" text="Tencent - WeChat mirror" title="Tencent - WeChat mirror" xmlUrl="https://rss.univerone.com/wechat/wechat2rss/9685937b45fe9c7a526dbc32e4f24ba879a65b9a" htmlUrl="https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml"/>
+            <outline type="rss" text="Alibaba - WeChat mirror" title="Alibaba - WeChat mirror" xmlUrl="https://rss.univerone.com/wechat/wechat2rss/6e1f9b775f7a5841ac1a94310f0478b45a02ec01" htmlUrl="https://wechat2rss.xlab.app/feed/6e1f9b775f7a5841ac1a94310f0478b45a02ec01.xml"/>
+            <outline type="rss" text="Aliyun - WeChat mirror" title="Aliyun - WeChat mirror" xmlUrl="https://rss.univerone.com/wechat/wechat2rss/c74ed6db00cfbf16f2a048a165b4453f982681f0" htmlUrl="https://wechat2rss.xlab.app/feed/c74ed6db00cfbf16f2a048a165b4453f982681f0.xml"/>
+            <outline type="rss" text="Meituan Tech" title="Meituan Tech" xmlUrl="https://tech.meituan.com/feed/" htmlUrl="https://tech.meituan.com/"/>
+            <outline type="rss" text="Kexue FM" title="Kexue FM" xmlUrl="https://spaces.ac.cn/feed" htmlUrl="https://kexue.fm/"/>
+        </outline>
+        <outline text="HN Popular Blogs - Selected" title="HN Popular Blogs - Selected">
+            <outline type="rss" text="Jeff Geerling" title="Jeff Geerling" xmlUrl="https://www.jeffgeerling.com/blog.xml" htmlUrl="https://www.jeffgeerling.com/"/>
+            <outline type="rss" text="Sean Goedecke" title="Sean Goedecke" xmlUrl="https://www.seangoedecke.com/rss.xml" htmlUrl="https://seangoedecke.com/"/>
+            <outline type="rss" text="Daring Fireball" title="Daring Fireball" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net/"/>
+            <outline type="rss" text="Armin Ronacher" title="Armin Ronacher" xmlUrl="https://lucumr.pocoo.org/feed.atom" htmlUrl="https://lucumr.pocoo.org/"/>
+            <outline type="rss" text="Mitchell Hashimoto" title="Mitchell Hashimoto" xmlUrl="https://mitchellh.com/feed.xml" htmlUrl="https://mitchellh.com/"/>
+            <outline type="rss" text="Hillel Wayne" title="Hillel Wayne" xmlUrl="https://buttondown.com/hillelwayne/rss" htmlUrl="https://buttondown.com/hillelwayne"/>
+            <outline type="rss" text="Paul Graham Essays" title="Paul Graham Essays" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" htmlUrl="https://paulgraham.com/"/>
+            <outline type="rss" text="Gwern" title="Gwern" xmlUrl="https://gwern.substack.com/feed" htmlUrl="https://gwern.net/"/>
+            <outline type="rss" text="Max Woolf" title="Max Woolf" xmlUrl="https://minimaxir.com/index.xml" htmlUrl="https://minimaxir.com/"/>
+            <outline type="rss" text="matklad" title="matklad" xmlUrl="https://matklad.github.io/feed.xml" htmlUrl="https://matklad.github.io/"/>
+            <outline type="rss" text="Refactoring English" title="Refactoring English" xmlUrl="https://refactoringenglish.com/index.xml" htmlUrl="https://refactoringenglish.com/"/>
+        </outline>
+    </body>
+</opml>
